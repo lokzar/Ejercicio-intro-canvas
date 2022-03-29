@@ -1,1 +1,2 @@
-console.log('hola mundo para el quinto coment');
+const canvas = document.getElementById("game");
+console.log(canvas);
